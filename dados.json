@@ -1,0 +1,110 @@
+[
+    {
+        "nome": "João da Silva",
+        "cpf": "123.456.789-00",
+        "consultas": [
+            [
+                "Polícia Civil",
+                "NADA CONSTA",
+                "-",
+                "-"
+            ],
+            [
+                "Polícia Civil",
+                "INJURIA",
+                "ARQUIVADO",
+                "28/08/2024 13:43:44"
+            ],
+            [
+                "Polícia Civil",
+                "DIREITO PROCESSUAL PENAL (1209) - PRISAO EM FLAGRANTE (7929",
+                "ARQUIVADO",
+                "27/11/2024 10:31:09"
+            ],
+            [
+                "Polícia Civil",
+                "PENAL > CRIMES PREVISTOS NA LEGISLACAO EXTRAVAGANTE > CRIMES DE TRAFICO ILICITO E USO INDEVIDO DE DROGAS > ASSOCIACAO PARA A PRODUCAO E TRAFICO E CONDUTAS AFINS",
+                "ARQUIVADO",
+                "31/12/2022 11:04:20"
+            ],
+            [
+                "Polícia Civil",
+                "PENA PRIVATIVA DE LIBERDADE",
+                "ARQUIVADO",
+                "11/09/2024 04:59:00"
+            ],
+            [
+                "Polícia Civil",
+                "PROCESSUAL CIVIL > OBJETOS DE CARTAS PRECATORIAS/DE ORDEM > OITIVA",
+                "ARQUIVADO",
+                "18/12/2024 20:07:11"
+            ],
+            [
+                "Polícia Civil",
+                "PROCESSUAL CIVIL > ATOS PROCESSUAIS > INTIMACAO / NOTIFICACAO",
+                "ARQUIVADO",
+                "15/05/2022 07:29:18"
+            ],
+            [
+                "Polícia Civil",
+                "PRISAO EM FLAGRANTE < DIREITO PROCESSUAL PENAL",
+                "ARQUIVADO",
+                "31/05/2024 09:57:58"
+            ]
+        ]
+    },
+    {
+        "nome": "Maria Oliveira",
+        "cpf": "987.654.321-00",
+        "consultas": [
+            [
+                "Polícia Civil",
+                "NADA CONSTA",
+                "-",
+                "-"
+            ],
+            [
+                "Polícia Civil",
+                "INJURIA",
+                "ARQUIVADO",
+                "28/08/2024 13:43:44"
+            ],
+            [
+                "Polícia Civil",
+                "DIREITO PROCESSUAL PENAL (1209) - PRISAO EM FLAGRANTE (7929",
+                "ARQUIVADO",
+                "27/11/2024 10:31:09"
+            ],
+            [
+                "Polícia Civil",
+                "PENAL > CRIMES PREVISTOS NA LEGISLACAO EXTRAVAGANTE > CRIMES DE TRAFICO ILICITO E USO INDEVIDO DE DROGAS > ASSOCIACAO PARA A PRODUCAO E TRAFICO E CONDUTAS AFINS",
+                "ARQUIVADO",
+                "31/12/2022 11:04:20"
+            ],
+            [
+                "Polícia Civil",
+                "PENA PRIVATIVA DE LIBERDADE",
+                "ARQUIVADO",
+                "11/09/2024 04:59:00"
+            ],
+            [
+                "Polícia Civil",
+                "PROCESSUAL CIVIL > OBJETOS DE CARTAS PRECATORIAS/DE ORDEM > OITIVA",
+                "ARQUIVADO",
+                "18/12/2024 20:07:11"
+            ],
+            [
+                "Polícia Civil",
+                "PROCESSUAL CIVIL > ATOS PROCESSUAIS > INTIMACAO / NOTIFICACAO",
+                "ARQUIVADO",
+                "15/05/2022 07:29:18"
+            ],
+            [
+                "Polícia Civil",
+                "PRISAO EM FLAGRANTE < DIREITO PROCESSUAL PENAL",
+                "ARQUIVADO",
+                "31/05/2024 09:57:58"
+            ]
+        ]
+    }
+]
